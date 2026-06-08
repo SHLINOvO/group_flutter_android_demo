@@ -46,10 +46,10 @@ class TeamAndroidHomePage extends StatelessWidget {
   ];
 
   static const List<String> evidenceNotes = [
-    '不能提交 Web 截图或模拟器截图。',
-    '不能使用手机直接截图代替照片。',
-    '必须用第二部手机拍摄，并拍到手持真机。',
-    '照片需发到小组，并加入 GitHub README。',
+  '第二部手机拍摄：由小组成员用另一部手机完成拍照，画面包含手持手机和运行中的应用界面',
+  '照片已上传至仓库 images/android-real-device.jpg',
+  '照片满足课程要求：真实 Android 手机、拍到手、屏幕显示本组 Flutter 应用、非截图',
+  'README 已通过 Markdown 图片语法引用该照片并在 GitHub 主页可正常显示',
   ];
 
   @override

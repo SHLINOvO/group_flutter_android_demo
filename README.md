@@ -84,11 +84,11 @@ device
 
 | 角色 | 修改位置 | 任务 |
 | --- | --- | --- |
-| 组长 | GitHub 仓库 | 创建仓库、维护 main、审核 PR、组织真机运行 |
-| 组员 A | `lib/main.dart` | 修改 `projectTitle` 和 `projectSlogan` |
-| 组员 B | `lib/main.dart` | 修改 `members` 中的小组成员姓名和分工 |
-| 组员 C | `lib/main.dart` | 修改 `androidTasks` 中的真机运行任务 |
-| 组员 D | `lib/main.dart` 和 `README.md` | 修改 `evidenceNotes`，补充 README 真机照片说明 |
+| 组长 林书豪 | GitHub 仓库 | 创建仓库、维护 main、审核 PR、组织真机运行 |
+| 组员 杨艳婷 | `lib/main.dart` | 修改 `projectTitle` 和 `projectSlogan` |
+| 组员 徐超扬 | `lib/main.dart` | 修改 `members` 中的小组成员姓名和分工 |
+| 组员 何赛   | `lib/main.dart` | 修改 `androidTasks` 中的真机运行任务 |
+| 组员 张洪滔 | `lib/main.dart` 和 `README.md` | 修改 `evidenceNotes`，补充 README 真机照片说明 |
 
 ## Android 真机运行效果
 

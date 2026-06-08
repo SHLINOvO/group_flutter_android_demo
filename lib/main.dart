@@ -32,7 +32,7 @@ class TeamAndroidHomePage extends StatelessWidget {
     TeamMember(role: '组长', name: '林书豪', task: '创建仓库、审核 PR、组织真机运行和提交'),
     TeamMember(role: '组员 A', name: '杨艳婷', task: '修改应⽤标题和项⽬⼝号'),
     TeamMember(role: '组员 B', name: '徐超扬', task: '修改成员信息和分⼯'),
-    TeamMember(role: '组员 C', name: '何塞', task: '修改真机运行任务列表'),
+    TeamMember(role: '组员 C', name: '何赛', task: '修改真机运行任务列表'),
     TeamMember(role: '组员 D', name: '张洪滔', task: '修改证据说明和 README 照⽚说明'),
   ];
 
